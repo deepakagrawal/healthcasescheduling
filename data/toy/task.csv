@@ -1,0 +1,28 @@
+Task,Hours,Cost,Start,Stop,Comment
+SiteA - Room 1,10,7,700,1700,"1630 week 1, need to submit hours"
+SiteA - Room 2,9,5,700,1600,need to submit hours
+SiteA - Room 3,8.5,3,700,1530,need to submit hours
+SiteA - Room 4,8,2,700,1500,Occasionally stays past 3
+SiteA - Room 5,8,1,700,1500,Occasionally stays past 3
+SiteA - Room 6,8,0.9,700,1500,Occasionally stays past 3
+SiteA - Room 7,8,0.8,700,1500,"always go to 2nd call. If not possible, try to go to 3rd call"
+SiteA - Room 8,8,0.7,700,1500,always go to backup2 if Room 7 went to backup1
+SiteA - Room 9,8,0.6,700,1500,
+SiteA - Room 10,8,0.5,700,1500,
+SiteA - Room 11,8,0.4,700,1500,May not be used
+SiteA - Room 12,8,0.3,700,1500,May not be used
+SiteA - Room 13,8,0.2,700,1500,May not be used
+SiteA - Room 14,8,0.1,700,1500,May not be used
+SiteA - Room 15,8,0.08,700,1500,May not be used
+SiteA - Room 16,8,0.06,700,1500,May not be used
+SiteA - Room 17,8,0.04,700,1500,May not be used
+SiteA - Room 18,8,0.02,700,1500,May not be used
+SiteA - Room 19,8,0.01,700,1500,May not be used
+SiteA - Room 20,8,0.005,700,1500,May not be used
+SiteA - Lead,10,10,700,1700,"Coordinator ""SiteA - Coordinator 7a-3p"""
+SiteA - Specialty2 Day,8,0.7,700,1500,
+SiteB - Room,8,0.7,700,1500,Same as Room 10
+SiteA - EveShift1 3p,7,4,1500,2200,"backup call rest of night, MAX Room -1 next day, initially voluntary, remaining assigned"
+SiteA - EveShift2 12p,8,5,1200,2000,"MAX Room -2 next day, initially voluntary, remaining assigned"
+SiteA - Backup1,4,2,1500,1900,"Set $$ compensation. Initially voluntary, remaining assigned, MAX Room assignment the next day"
+SiteA - Backup2,3,4,1500,1900,"Set $$ compensation. Initially voluntary, remaining assigned, MAX Room -3 the next day"
