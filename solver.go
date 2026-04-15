@@ -58,23 +58,9 @@ type constraint struct {
 	lb, ub  float64
 }
 
-// buildConstraints creates the MIP constraints that define the scheduling problem.
-// This implements the SD_max_pain4 objective from the Python solver in src/main.py.
-//
-// The constraints should encode:
-// - The relationship between z_avg (per-provider average pain) and the assignment variables
-// - The AvgOfAvgPain objective variable linked to z_avg values
-// - Room assignment limits (each room to at most one provider per day)
-// - Provider availability constraints
-// - Room ordering (lower-numbered rooms assigned first)
-// - No-call provider restrictions
-// - Part-time provider exclusions
 func buildConstraints(input *SolverInput, providers []string, days []time.Time, ors []string,
 	xIdx map[string]int, zAvgIdx map[string]int, avgOfAvgIdx int,
 	newStart, newEnd time.Time) []constraint {
-	// TODO: Implement constraint building for the SD_max_pain4 objective.
-	// Port the constraint logic from the Python assignment() function in src/main.py
-	// and the SD_max_pain4 objective from objective_fn().
 	return nil
 }
 
