@@ -1,4 +1,4 @@
-# HealthCaseScheduling
+# ResourceScheduling
 
 Version 12/14/2020
 Python 3.9
