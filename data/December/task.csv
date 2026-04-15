@@ -1,0 +1,28 @@
+Task,Hours,Pain,Start,Stop,Comment
+UH - OR 1,10,7,700,1700,"1630 week 1, need to submit hours"
+UH - OR 2,9,5,700,1600,need to submit hours
+UH - OR 3,8.5,3,700,1530,need to submit hours
+UH - OR 4,8,2,700,1500,Occasionally stays past 3
+UH - OR 5,8,1,700,1500,Occasionally stays past 3
+UH - OR 6,8,0.9,700,1500,Occasionally stays past 3
+UH - OR 7,8,0.8,700,1500,"always go to 2nd call. If not possible, try to go to 3rd call"
+UH - OR 8,8,0.7,700,1500,always go to 3rd call if OR 7 went to 2nd call
+UH - OR 9,8,0.6,700,1500,
+UH - OR 10,8,0.5,700,1500,
+UH - OR 11,8,0.4,700,1500,May not be used
+UH - OR 12,8,0.3,700,1500,May not be used
+UH - OR 13,8,0.2,700,1500,May not be used
+UH - OR 14,8,0.1,700,1500,May not be used
+UH - OR 15,8,0.08,700,1500,May not be used
+UH - OR 16,8,0.06,700,1500,May not be used
+UH - OR 17,8,0.04,700,1500,May not be used
+UH - OR 18,8,0.02,700,1500,May not be used
+UH - OR 19,8,0.01,700,1500,May not be used
+UH - OR 20,8,0.005,700,1500,May not be used
+UH - BR,10,10,700,1700,"Board Runner ""UH Anesthesia - Board Runner 7a-3p"""
+UH - OBDay,8,0.7,700,1500,
+VA - OR,8,0.7,700,1500,Same as OR 10
+UH - Late1 3p,7,4,1500,2200,"CFL call rest of night, MAX OR -1 next day, initially voluntary, remaining assigned"
+UH - Late2 12p,8,5,1200,2000,"MAX OR -2 next day, initially voluntary, remaining assigned"
+UH - 2nd Call,4,2,1500,1900,"Set $$ compensation. Initially voluntary, remaining assigned, MAX OR assignment the next day"
+UH - 3rd Call,3,4,1500,1900,"Set $$ compensation. Initially voluntary, remaining assigned, MAX OR -3 the next day"
